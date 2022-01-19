@@ -1,0 +1,15 @@
+#  Node Modules
+/node_modules
+
+#firebase files
+/src/js/libs/firebase/firebaseConfig.js
+
+# Parcel Development Files
+/dist
+/.parcel-cache
+/public
+
+# OS Files
+.DS_Store
+
+
